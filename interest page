@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+        <link rel="stylesheet" type="text/css" href="test.css">
+
+    <div>
+        <title>
+            Righi-My Interest
+        </title>
+    </div>
+    <style>
+        #titre {
+            background-color: bisque;
+            text-align: center;
+        }
+
+
+        .bold {
+            font-weight: bolder;
+        }
+    </style>
+    <h2 id="titre">
+        Welcome to Mohamed Righi Intrest page
+    </h2>
+
+</head>
+
+<body>
+    <div>
+        <br>
+        <h4>
+            Education background.
+        </h4>
+        <ul>
+
+            <li> <b> Baccalaureate degree with major in science experimantal </b> <a href="https://www.facebook.com/LMIXTE/">
+                    <em> Gafsa High School.</em></a> </li>
+
+            <li> <b> web development </b> <em> <a href="https://gomycode.tn/">Go My code.</em> </a></li>
+
+            <li> <b> One semester Managment bachelor degree</b> <em>Tunisia University.</em></li>
+
+            <li> <b> Currently studying MIS</b><a href="http://esb.tn/"> <em> ESPRIT school of Business.</em></a> </li>
+        </ul>
+
+    </div>
+    <div>
+        <h4>
+            Volunteer Experience
+        </h4>
+
+        We make a living by<b> what we get</b>, but we make a life by <b>what we give </b>. <em> Winston Churchill</em>
+
+        <div>-
+            Ive been an active member in:
+            </h4>
+            <ul>
+
+                <li class="bold"> Rotaract club. </li>
+
+                <li> <b> AIESEC Tunisia. </b> </li>
+
+                <li> <b> AIESEC IN Indonesia(IPB).</b> </li>
+
+                <li> <b> Tunisian International Model United Nations. </b>
+                <li>
+                    <b> Modèle de l'Union Africaine.</b>
+                </li>
+            </ul>
+
+        </div>
+        <div>
+            <h4>
+                My Recommendation.
+            </h4>
+            <h4>Books</h4>
+            <ol>
+                <li>Zero to one. check it <a href="https://www.goodreads.com/book/show/18050143-zero-to-one">here </a>
+                </li>
+                <li>How to Win Friends and Influence People. check it <a href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ac=1&from_search=true">here</a>
+                </li>
+                <li> Skin in the Game. check it <a href="https://www.goodreads.com/book/show/36064445-skin-in-the-game?from_search=true">here</a></li>
+            </ol>
+            <h4>Movies</h4>
+            <ol>
+                <li>Pursuit of Happiness</li>
+                <li>The exam.</li>
+                <li>shutter island.</li>
+
+            </ol>
+            <h4> Places to Visit.</h4>
+
+            <ul>
+                <li> <a href="https://www.google.com/maps/place/Tunisia/@31.9965368,7.8825786,1434886m/data=!3m1!1e3!4m5!3m4!1s0x125595448316a4e1:0x3a84333aaa019bef!8m2!3d33.886917!4d9.537499">
+                        <b>Tunisia</b></a>
+                    <ul>
+                        <li>Tozeur</li>
+                        <li>Tunis(the capital)</li>
+                        <li>Hammamet</li>
+                    </ul>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="https://www.google.com/maps/place/Indonesia/@-2.3188883,99.3503126,5956652m/data=!3m2!1e3!4b1!4m5!3m4!1s0x2c4c07d7496404b7:0xe37b4de71badf485!8m2!3d-0.789275!4d113.921327"><b>Indonesia</b>
+                    </a>
+                    <ul>
+                        <li>Bali</li>
+                        <li>Jogjaa</li>
+                        <li>Bogor</li>
+                        <li>Bandung</li>
+
+
+                    </ul>
+
+                </li>
+
+            </ul>
+            <ul>
+                <li>
+                    <a href="https://www.google.tn/maps/place/France/data=!4m2!3m1!1s0xd54a02933785731:0x6bfd3f96c747d9f7?ved=2ahUKEwin9ZWoh5rfAhUvVBUIHZtMDvcQ8gEwPXoECAYQCA">
+                        <b> France</b></a>
+                </li>
+                <ul>
+                    <li>Paris</li>
+                    <li>Nice</li>
+                    <li>Strasbourg</li>
+
+
+
+
+
+                </ul>
+
+
+            </ul>
+            <p class="div">test uhbefiezjfzefjzeofmjezù</p>
+
+
+        </div>
+    </div>
+ 
+</body>
+
+</html>
